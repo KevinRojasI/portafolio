@@ -1,0 +1,43 @@
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node (si usas en el futuro)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Archivos temporales
+*.tmp
+*.temp
+.cache/
+
+# Compilados
+*.css.map
+*.js.map
+dist/
+build/
+
+# Documentos personales (no subir al repo)
+CV_Personal.pdf
+datos_personales.txt
+
+# Archivos de prueba
+test-*.html
+.test/
